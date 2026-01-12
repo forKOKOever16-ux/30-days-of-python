@@ -1,1 +1,1 @@
-"# Simple-and-varied-projects-in-python" 
+"# 30-days-of-python" 
